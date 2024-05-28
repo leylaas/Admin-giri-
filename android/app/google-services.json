@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "849044211311",
+    "project_id": "shopsmart-78edb",
+    "storage_bucket": "shopsmart-78edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849044211311:android:1bd1fbe519e06e3e25ef9a",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_admin_en_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849044211311-qnp4giivlghjur2a34set4tki713c0hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEMvlDvg6FSeT9LPEwxk4a5ndHWrcLOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849044211311-qnp4giivlghjur2a34set4tki713c0hc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849044211311-h1tmmi77bv1q3agd2883edov2oftp5nh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartUsersEnTwo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849044211311:android:f1dff60cb7130c6525ef9a",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_users_en_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849044211311-qnp4giivlghjur2a34set4tki713c0hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEMvlDvg6FSeT9LPEwxk4a5ndHWrcLOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849044211311-qnp4giivlghjur2a34set4tki713c0hc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849044211311-h1tmmi77bv1q3agd2883edov2oftp5nh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartUsersEnTwo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
